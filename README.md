@@ -3,4 +3,4 @@ In this task, I performed Exploratory Data Analysis (EDA) to understand my datas
 After each plot, I wrote short observations to explain what I found — like patterns, trends, or outliers. Finally, I added a simple summary highlighting key insights, relationships, and patterns in the data. This helped me learn how to find useful information, spot issues, and understand my data better before any further analysis or modeling.
 
 for referance I used Google, ChatGPT, Deepseek, YouTube.
-for Tools I used ChatGPT, Deepseek, Jupjter Notebook, Anaconda Navigator, MS Word.
+for Tools I used Python(Pandas, Matplotlib, Seaborn), ChatGPT, Deepseek, Jupjter Notebook, Anaconda Navigator, MS Word.
